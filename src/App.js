@@ -1,7 +1,7 @@
 import React from "react";
 import img1 from "./image/banner.jpg";
 import img2 from "./image/boy.jpg"
-
+import He from './He'
 
 import "./App.css";
 
@@ -90,8 +90,12 @@ function App() {
                   </div>
                 </div>
               </div>
-                    <div>
-                      <h1>hii</h1>
+                    <div className="mt-5 d-flex">
+                    <img src={img1} className="girl3"/>
+                    <img src={img1} className="girl4"/>
+                    <img src={img1} className="girl4"/>
+                    <h1 className="font-10 text-primary">10k+</h1>
+<p className="student">students are already with us</p>
                     </div>
             </div>
             <div className="col-6 position-relative">
@@ -105,7 +109,7 @@ function App() {
               <div>
                 <img src={img1} className="girl"/>
               </div>
-              <img src={img2} className="girl1"/>
+              <img src={img1} className="girl1"/>
               <div className="d-flex">
 
               
@@ -114,6 +118,7 @@ function App() {
           </div>
         </div>
       </div>
+      <He />
     </div>
   );
 }

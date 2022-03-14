@@ -1,0 +1,60 @@
+.fs-20{
+    font-size: 20px;
+}
+
+.bg-myblue{
+    background-color: rgb(246, 246, 250);
+}
+.w-200{
+    width: 200px;
+}
+.mar-50{
+    margin-top: 100px;
+}
+.bd-10{
+    border-radius: 10px;
+}
+.mar-10{
+    margin-top: 10px;
+}
+.w-160{
+    width: 160px;
+}
+.w-220{
+    width: 220px;
+}
+.w-230{
+    width: 230px;
+}
+.select-button{
+    border: 1px solid #6366f1;
+    height: 50px;
+margin-top: 60px;
+margin-bottom: 30px;
+align-items: center;
+border-radius: 10px;    
+}
+.select-c{
+    padding-top: 13px;
+    padding-left: 35px;
+
+}
+.select-button:hover{
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+}
+.bg-myblue:hover{
+    background-color: rgb(230, 230, 243);
+    color: #6366f1;
+}
+.h-blue:hover{
+    color: #007bff;
+}
+/* mid container */
+.mid-contain{
+    margin-left: 120px;
+}
+.card{
+    height: 350px;
+}
