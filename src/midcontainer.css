@@ -56,5 +56,35 @@ border-radius: 10px;
     margin-left: 120px;
 }
 .card{
-    height: 350px;
+    height: 380px;
+    width: 300px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(214, 213, 213);
+    position: relative;
+}
+.font-800{
+    font-weight: bold;
+}
+.omkar-img{
+    width: 300px;
+    height: 175px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+}
+
+.button{
+    background-color: rgb(109, 172, 16);
+    height: 20px;
+    width: 60px;
+    margin-bottom: -20px;
+}
+.image{
+    background-image: url(https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+width: 300px;
+height: 175px;
+background-size: contain;
+
 }
