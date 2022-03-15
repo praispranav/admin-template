@@ -10,7 +10,6 @@ export default function He() {
       {/* left side container */}
       <div>
 
-
 <div className="bg-primary w-200 bd-10  mar-50">
     <h1 className="fs-20 p-3 text-light ">Web development</h1>
 
